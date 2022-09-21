@@ -1,0 +1,25 @@
+*{box-sizing: border-box;
+   
+}
+.bus{
+
+ margin: 50px;
+padding: 20px;
+width: 90%;
+height: 85%;
+background-color: rgb(228, 195, 218);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+
+.name{
+text-align: center;  
+}
+.mail{
+    text-align:center;
+}
+.pw{
+    text-align: center;
+
+}
+.mob{
+    text-shadow: 0mm;
+}
